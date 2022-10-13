@@ -1,8 +1,8 @@
-name: 'Netlify Preview Deploy'
+name: 'Netlify Deploy'
 
 on:
-  pull_request:
-    types: ['opened', 'edited', 'synchronize']
+  release:
+    types: ['published']
 
 jobs:
   deploy:
@@ -15,3 +15,5 @@ jobs:
         with:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_DEPLOY_MESSAGE: "Prod deploy v${{ github.ref }}"
+          NETLIFY_DEPLOY_TO_PROD: true
