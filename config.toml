@@ -14,7 +14,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "hugo-ink"
 
 [params]
-	subtitle = "[Tushar](https://champ96k.github.io/), minimal personal"
+	subtitle = "[Tushar](https://champ96k.github.io/), Software geeks"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
