@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://majestic-kheer-b3592c.netlify.app/"
 languageCode = "en-us"
 title = "Tushars Blogs"
 theme = "hugo-ink"
