@@ -1,0 +1,4 @@
+[context.production.envirement]
+
+
+HUGO_VERSION = "0.104.3"
