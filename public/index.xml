@@ -6,7 +6,6 @@
     <description>Recent content on Tushars Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright notice</copyright>
     <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate><atom:link href="https://majestic-kheer-b3592c.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer: When You Have Too Much to Do</title>
@@ -26,6 +25,15 @@ How do you keep up with it all? How do you find focus and peace and get stuff ac
       
       <guid>https://majestic-kheer-b3592c.netlify.app/about/</guid>
       <description>This is some static page where you can write about yourself.</description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>https://majestic-kheer-b3592c.netlify.app/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://majestic-kheer-b3592c.netlify.app/notes/</guid>
+      <description>This is some static page where you can get all notes.</description>
     </item>
     
   </channel>

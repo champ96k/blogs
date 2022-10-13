@@ -1,4 +1,15 @@
-[context.production.envirement]
+# [context.production.envirement]
 
+[build]
+	publish = "public"
+	command = "env REV_EMAIL=${REV_EMAIL} hugo --gc --minify"
 
-HUGO_VERSION = "0.104.3"
+[build.environment]
+	HUGO_VERSION = "0.104.3"
+  	HUGO_THEME = "hugo-ink"
+	HUGO_BASEURL = "/"
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404

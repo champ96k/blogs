@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Tags - Tushars Blogs</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title> Tags </title><meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="alternate" type="application/rss+xml" href="https://majestic-kheer-b3592c.netlify.app/tags/index.xml" title="Tushars Blogs" />
 	<meta itemprop="name" content="Tags">
 <meta itemprop="description" content=""><meta property="og:title" content="Tags" />
@@ -36,7 +36,7 @@
 	
 	<h1 class="site-title"><a href="https://majestic-kheer-b3592c.netlify.app/">Tushars Blogs</a></h1>
 	<div class="site-description"><p><a href="https://champ96k.github.io/">Tushar</a>, Software geeks</p><nav class="nav social">
-			<ul class="flat"><li><a href="https://github.com/champ96k" title="Github"><i data-feather="github"></i></a></li><li><a href="https://champ96k.github.io" title="portfolio"><i data-feather="rss"></i></a></li><li><a href="#" class="scheme-toggle" id="scheme-toggle"></a></li></ul>
+			<ul class="flat"><li><a href="https://github.com/champ96k" title="Github"><i data-feather="github"></i></a></li><li><a href="https://twitter.com/champ_96k" title="Twitter"><i data-feather="twitter"></i></a></li><li><a href="https://champ96k.github.io" title="portfolio"><i data-feather="github"></i></a></li><li><a href="https://www.linkedin.com/in/tushar-nikam-a29a97131/" title="portfolio"><i data-feather="linkedin"></i></a></li><li><a href="#" class="scheme-toggle" id="scheme-toggle"></a></li></ul>
 		</nav>
 	</div>
 
@@ -48,15 +48,19 @@
 			</li>
 			
 			<li>
-				<a href="/posts">All posts</a>
+				<a href="/posts">Posts</a>
 			</li>
 			
 			<li>
-				<a href="/about">About</a>
+				<a href="/notes">Notes</a>
 			</li>
 			
 			<li>
 				<a href="/tags">Tags</a>
+			</li>
+			
+			<li>
+				<a href="/about">About</a>
 			</li>
 			
 		</ul>
@@ -88,21 +92,41 @@
 
 	<div class="footer wrapper">
 	<nav class="nav">
-		<div>2022  © Copyright notice |  <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on <a href="https://gohugo.io">Hugo</a></div>
+		<div> Made with ❤ | <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on <a href="https://gohugo.io">Hugo</a> | Hosted on <a href="https://www.netlify.com/">Netlify</a> </div>
+		<div>
+			<em> Last edited on: October 13, 2022 </em>
+		</div>
 	</nav>
 </div>
 
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+  });
+  MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+  });
 
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-123-45', 'auto');
-	
-	ga('send', 'pageview');
-}
+  MathJax.Hub.Config({
+  
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
 </script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
 <script>feather.replace()</script>
 </body>
 

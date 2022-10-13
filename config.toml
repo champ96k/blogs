@@ -4,14 +4,12 @@ title = "Tushars Blogs"
 theme = "hugo-ink"
 paginate = 5
 
-copyright = "© Copyright notice"
-
 pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
-disqusShortname = "hugo-ink"
+enableEmoji = true
+enableGitInfo = true
 
 [params]
 	subtitle = "[Tushar](https://champ96k.github.io/), Software geeks"
@@ -19,8 +17,8 @@ disqusShortname = "hugo-ink"
 	# Optional 64x64 avatar image.
 	avatar = "https://iili.io/ZTC1jt.png"
 
-	# Content types to disable Disqus on.
-	disableDisqusTypes = ["page"]
+	# # Content types to disable Disqus on.
+	# disableDisqusTypes = ["page"]
 	
 	featherIconsCDN = true
 
@@ -36,13 +34,13 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Posts"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Notes"
+url = "/notes"
 weight = 3
 
 [[menu.main]]
@@ -50,15 +48,32 @@ name = "Tags"
 url = "/tags"
 weight = 4
 
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 5
+
+
 [[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/champ96k"
 
 [[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/champ_96k"
+
+[[params.social]]
 name = "portfolio"
-icon = "rss"
+icon = "github"
 url = "https://champ96k.github.io"
+
+[[params.social]]
+name = "portfolio"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/tushar-nikam-a29a97131/"
 
 [taxonomies]
    tag = "tags"

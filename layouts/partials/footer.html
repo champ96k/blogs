@@ -1,0 +1,14 @@
+<div class="footer wrapper">
+	<nav class="nav">
+		<div> Made with ❤ | <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on <a href="https://gohugo.io">Hugo</a> | Hosted on <a href="https://www.netlify.com/">Netlify</a> </div>
+		<div>
+			<em> Last edited on: {{ .Lastmod.Format "January 2, 2006" }} </em>
+		</div>
+	</nav>
+</div>
+
+{{ partial "mathjax_support.html" . }}
+{{ template "_internal/google_analytics_async.html" . }}
+{{- with .Site.Params.Social -}}
+<script>feather.replace()</script>
+{{- end -}}
