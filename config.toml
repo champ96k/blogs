@@ -12,7 +12,7 @@ enableEmoji = true
 enableGitInfo = true
 
 [params]
-	subtitle = "[Tushar](https://champ96k.github.io/), Software geeks"
+	subtitle = "[Tushar](https://champ96k.github.io/), A place to log my thoughts"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://iili.io/ZTC1jt.png"
