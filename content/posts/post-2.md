@@ -1,75 +1,119 @@
 ---
-title: "Tips for your first month as a software Engineer"
-date: 2022-10-31T02:01:58+05:30
-description: "8 Tips for your first month as a software Engineer"
-tags: [experience,job,tips]
+title: "Life's Amazing Secrets: How to Find Balance and Purpose in Your Life - Book review"
+date: 2022-12-25T02:01:58+05:30
+description: "Life's Amazing Secrets: How to Find Balance and Purpose in Your Life - Book review"
+tags: [book,review]
 ---
 
-8 Tips for your first month as a software Engineer
 
-## Always ask the right questions
+------
 
-Meet your teammates and ask as many questions as you can. like 
-
-- what is the purpose of the product?
-- who are it’s user ?
-- What motivated the company to build this ?
-- where can you find documentation related to this ?
-
-## Integrate ( DO NOT DISSOLVE YOURSELF)
-
-Note down the term programming language, dependency tools, build tools, work hours, test frameworks, deployment manuals, and rituals. 
-
-try to read up on any open source tech begin used.
-
-## Adjust more and suggest less
-
-People are usually defensive about their work. It’s best to take a slow and measured approach when putting forth your ideas.
-
-- Don’t jump to conclusions on design decisions or code quality.
-- Don’t suggest improvements right off the bat (It’s better to write all this points in notes and suggest later after all iteration)
-- Pose your thoughts as questions instead of accusations.
-- Don’t try to prove your utility by hunting for improvements in the system.
+***“The mind is what we use to perceive the world. We don’t see things as they are, we see things as we are.“***
 
 
-## Expect piecemeal task to begin with
+As a society, it’s all too easy to focus on our external achievements and forget to assess whether we are happy with the state of our life.
 
-There is no harm in starting off at the bottom of the ladder and slowly making your way to the top.
+We tend to take everyone at face value, equating what they have on the outside to how they feel on the inside.
 
-- Your first task might be something very simple almost mundane ex Logging a metric and sending a message to an analytics engine
-- The team wants you to get familiar with the software engineering process They want to see your time estimation testing and communication skills
+We have mastered how to look successful, but not how to organize our lives so that we feel successful.
 
-## Write tests
+But wait! before moving forward you think, why did I choose this book?,  because there are lots of books available in the market, end  I don't like to read the book too much, in fact, I don't like to read any book at all. The story behind it, I heard a lot about guru Gopal das and this book from one of my classmate friends 🙇‍♂️, And I personally liked that particular person the way she speaks, the way she lives, and whatnot, in the first impression I had a crush on her, but that's it nothing else, in a nutshell, I started this to read just because understand that particular person in general, So moving forward to our main topic what are some key takeaway from this book, and why you should read this book?.
 
-The reputation of a software engineer is inversely proportional to the number and severity of the production bugs in their code.
-- Your reputation depends on your code correctness. Code quality is a close second.
-- The code reviews are smoother. Production issues are simpler.
+Life’s Amazing Secrets is a story of two fictional characters (a couple), who seems to be really successful, and happy on the outside. Yet, as the story progresses we learn how misguiding appearance can be.
+I loved the analogy of the Wheels of a Car used in the book to talk about the four key areas of life. Our personal life, relationships, work life and social contribution.
 
-## Speaks in your team’s language 
+The lack of the right pressure even in one wheel can slow you down in reaching your destination; the loss of one can be fatal.
 
-Make your team comfortable by following their protocols
+He also compares the steering wheel to our spirituality. Let’s say we have the right pressure in all tires, and all wheels are aligned, but if we don’t have steering wheels in our hands, we will not reach our destination.
 
-- Who merges the pull request?
-- Can anyone push a hotfix to the main branch without review?
-- What are the testing criteria?
-- How many reviewers are needed for a small/big change?
+The book is divided into four parts like the four wheels of a car. It signifies that all four areas have the same importance and how we can find the balance.
 
-## Keep your team updated 
+1. Personal life
+2. Relationships
+3. Work Life
+4. Social Contribution.
 
-Communication builds trust in your team.
+## Personal Life
 
-- Use standups, meetings, or the office messenger when making critical changes.
-- More eyeballs and more documentation make the final product reliable.
+### Growing Through Gratitude 
 
+Gratitude is not a feeling; it is a state of mind that can be developed, and it allows us to tap into a reservoir of unlimited positive energy.
+Those who are grateful are not only immune to distress but also gratitude on many different levels offering us unlikely solace in a time of great difficulty.
 
-## Don’t be too harsh on yourself 
+### Press Pause 
 
-You are probably doing great. It takes a month to get an idea of what's going on in your team, even for a senior engineer. 
+Pausing from time to time for reflecting and counting blessings and when we are thankful for what we have, makes us poised to receive more.
+You may consider writing a gratitude log daily, which is based on three principles of gratitude: recognize, remember and reciprocate.
 
-Give yourself 3 months to get a hang of things.
+### Why Worry 
 
+You can easily understand by just seeing the below image.
 
-![Image](https://iili.io/ba2AwN.jpg)
+![Image](https://i.ibb.co/jyP7gZC/Worry-Msg-Photo.jpg)
 
+Great! You understand it right?  If not see it again.
 
-Joke and laugh with your team at outings. Don't take comments on your work personally. The tougher you are, the fewer the jibes.
+    --- 
+## Relationships
+
+### What We Choose to See 
+
+What we choose to see in people determines our approach toward them. Gaur Gopal Das claims that they are five ways to look at people and he encourages us to aspire for at least Type four.
+
+- Type 1 – A person who cannot see the good at all.
+- Type 2 – A person who sees both good and the bad, but chooses to neglect the good.
+- Type 3 – A person who sees the good and the bad and is neutral to both – difficult to find this kind.
+- Type 4 – A person who sees both good and the bad, but chooses to neglect the bad.
+- Type 5 – A Person Who Cannot See the Bad at All; They See the Slightest Good and Magnify It.
+
+### Correcting Cautiously 
+
+Many times we forget to invest appreciation and love into a person before we correct them. He suggests considering four questions before correcting anyone.
+Am I the right person?
+Do I have the right motive?
+Do I know the right way?
+Is it the right time?
+
+### Forgiveness
+
+Relationships follow the principle of growing a plant: constant care is required so that one day, it blooms. There are no shortcuts.
+The most widely underestimated quality which can help us improve our relationships is forgiveness.
+Everyone is going through challenges concealed from the public eye, and we need the lens of empathy to be able to see that.
+
+## Work-life
+
+### Competition Crossroads 
+
+At work, we tend to compare and compete with others, instead of comparing and competing with ourselves.
+when ambition crosses the line of ethics and turns into greed, even reputed businesses can get involved in scandals as they vie for the largest piece of the pie.
+
+### Integrity & Character 
+
+Philosophy without good character is of little or no value. There are three aspects of spirituality in practice:
+Vichaar: The philosophy that we seek answers from.
+Achaar: The act on that philosophy. We must do it.
+Prachaar: The good conduct that is displayed to the world through those actions. We must practice it.
+ Social Contribution
+Selfless Service 
+
+You can be completely selfish, completely selfless, or any of the combinations in between. Life is a journey from being selfish to becoming selfless.
+In order to be happy, we should shift our attitude from being an ice cream to a candle, from being selfish to selfless. This is shown through service.
+
+<br>
+<br>
+
+    ---
+
+![Image](https://i.ibb.co/p41N3Zm/Whats-App-Image-2022-12-25-at-1-51-42-PM-1.jpg)
+
+    ---
+
+My thoughts about reading a book in general.
+
+Previously I feel reading books is worthless, but yes! it helps you a lot, what I feel is that from reading a book you just do not understand the author's purpose but at the same, you learn the small-small thing, and that teach you much more, it's just like connecting the dot, you got my point right?. 
+
+if you read the complete book, you feel that you have lots of knowledge about that particular topic and you master the fundamentals,  and that's all we need.
+
+But at the same time, it takes too much time to read as compared to watching videos and listening to audiobooks, in today's world we all have limited time, but yes, in the end, it's worth it. So choose wisely. That's it.
+
+Thanks for reading this complete blog. 

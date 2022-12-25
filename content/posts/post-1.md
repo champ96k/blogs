@@ -1,62 +1,75 @@
 ---
-title: "Primer: When You Have Too Much to Do"
-date: 2021-03-18T02:01:58+05:30
-description: "You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more."
-tags: [Primer, todo]
+title: "Tips for your first month as a software Engineer"
+date: 2022-10-31T02:01:58+05:30
+description: "8 Tips for your first month as a software Engineer"
+tags: [experience,job,tips]
 ---
 
-You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
+8 Tips for your first month as a software Engineer
 
-It all keeps piling up, and it can feel overwhelming.
+## Always ask the right questions
 
-How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?
+Meet your teammates and ask as many questions as you can. like 
 
-In this primer, I’ll look at some key strategies and tactics for taking on an overloaded life with an open heart, lots of energy, and a smile on your face.
+- what is the purpose of the product?
+- who are it’s user ?
+- What motivated the company to build this ?
+- where can you find documentation related to this ?
 
-## The First Step: Triage
+## Integrate ( DO NOT DISSOLVE YOURSELF)
 
-Whether you’re just starting your day, or you’re in the middle of the chaos and just need to find some sanity … the first step is to get into triage mode.
+Note down the term programming language, dependency tools, build tools, work hours, test frameworks, deployment manuals, and rituals. 
 
-Triage, as you probably know, is sorting through the chaos to prioritize: what needs to be done now, what needs to be done today, what needs to be done this week, and what can wait? You’re looking at urgency, but also what’s meaningful and important.
+try to read up on any open source tech begin used.
 
-Here’s what you might do:
+## Adjust more and suggest less
 
-* Pick out the things that need to be done today. Start a Short List for things you’re going to do today. That might be important tasks for big projects, urgent tasks that could result in damage if you don’t act, smaller admin tasks that you really should take care of today, and responding to important messages. I would recommend being ruthless and cutting out as much as you can, having just 5 things on your plate if that’s at all possible. Not everything needs to be done today, and not every email needs to be responded to.
-* Push some things to tomorrow and the rest of the week. If you have deadlines that can be pushed back (or renegotiated), do that. Spread the work out over the week, even into next week. What needs to be done tomorrow? What can wait a day or two longer?
-* Eliminate what you can. That might mean just not replying to some messages that aren’t that important and don’t really require a reply. It might mean telling some people that you can’t take on this project after all, or that you need to get out of the commitment that you said you’d do. Yes, this is uncomfortable. For now, just put them on a list called, “To Not Do,” and plan to figure out how to get out of them later.
+People are usually defensive about their work. It’s best to take a slow and measured approach when putting forth your ideas.
 
-OK, you have some breathing room and a manageable list now! Let’s shrink that down even further and just pick one thing.
+- Don’t jump to conclusions on design decisions or code quality.
+- Don’t suggest improvements right off the bat (It’s better to write all this points in notes and suggest later after all iteration)
+- Pose your thoughts as questions instead of accusations.
+- Don’t try to prove your utility by hunting for improvements in the system.
 
-## Next: Focus on One Thing
 
-With a lot on your plate, it’s hard to pick one thing to focus on. But that’s exactly what I’m going to ask you to do.
+## Expect piecemeal task to begin with
 
-Pick one thing, and give it your focus. Yes, there are a lot of other things you can focus on. Yes, they’re stressing you out and making it hard to focus. But think about it this way: if you allow it all to be in your head all the time, that will always be your mode of being. You’ll always be thinking about everything, stressing out about it all, with a frazzled mind … unless you start shifting.
+There is no harm in starting off at the bottom of the ladder and slowly making your way to the top.
 
-The shift:
+- Your first task might be something very simple almost mundane ex Logging a metric and sending a message to an analytics engine
+- The team wants you to get familiar with the software engineering process They want to see your time estimation testing and communication skills
 
-* Pick something to focus on. Look at the triaged list from the first section … if you have 5-6 things on this Short List, you can assess whether there’s any super urgent, time-sensitive things you need to take care of. If there are, pick one of them. If not, pick the most important one — probably the one you have been putting off doing.
-* Clear everything else away. Just for a little bit. Close all browser tabs, turn off notifications, close open applications, put your phone away.
-* Put that one task before you, and allow yourself to be with it completely. Pour yourself into it. Think of it as a practice, of letting go (of everything else), of focus, of radical simplicity.
+## Write tests
 
-When you’re done (or after 15-20 minutes have gone by at least), you can switch to something else. But don’t allow yourself to switch until then.
+The reputation of a software engineer is inversely proportional to the number and severity of the production bugs in their code.
+- Your reputation depends on your code correctness. Code quality is a close second.
+- The code reviews are smoother. Production issues are simpler.
 
-By closing off all exits, by choosing one thing, by giving yourself completely to that thing … you’re now in a different mode that isn’t so stressful or spread thin. You’ve started a shift that will lead to focus and sanity.
+## Speaks in your team’s language 
 
-## Third: Schedule Time to Simplify
+Make your team comfortable by following their protocols
 
-Remember the To Not Do list above? Schedule some time this week to start reducing your projects, saying no to people, getting out of commitments, crossing stuff off your task list … so that you can have some sanity back.
+- Who merges the pull request?
+- Can anyone push a hotfix to the main branch without review?
+- What are the testing criteria?
+- How many reviewers are needed for a small/big change?
 
-There are lots of little things that you’ve said “yes” to that you probably shouldn’t have. That’s why you’re overloaded. Protect your more important work, and your time off, and your peace of mind, by saying “no” to things that aren’t as important.
+## Keep your team updated 
 
-Schedule the time to simplify — you don’t have to do it today, but sometime soon — and you can then not have to worry about the things on your To Not Do list until then.
+Communication builds trust in your team.
 
-## Fourth: Practice Mindful Focus
+- Use standups, meetings, or the office messenger when making critical changes.
+- More eyeballs and more documentation make the final product reliable.
 
-Go through the rest of the day with an attitude of “mindful focus.” That means that you are doing one thing at a time, being as present as you can, switching as little as you can.
 
-Think of it as a settling of the mind. A new mode of being. A mindfulness practice (which means you won’t be perfect at it).
+## Don’t be too harsh on yourself 
 
-As you practice mindful focus, you’ll learn to practice doing things with an open heart, with curiosity and gratitude, and even joy. Try these one at a time as you get to do each task on your Short List.
+You are probably doing great. It takes a month to get an idea of what's going on in your team, even for a senior engineer. 
 
-You’ll find that you’re not so overloaded, but that each task is just perfect for that moment. And that’s a completely new relationship with the work that you do, and a new relationship with life.
+Give yourself 3 months to get a hang of things.
+
+
+![Image](https://iili.io/ba2AwN.jpg)
+
+
+Joke and laugh with your team at outings. Don't take comments on your work personally. The tougher you are, the fewer the jibes.
