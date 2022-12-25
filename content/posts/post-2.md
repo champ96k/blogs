@@ -8,6 +8,7 @@ tags: [book,review]
 
 ------
 
+
 ***“The mind is what we use to perceive the world. We don’t see things as they are, we see things as we are.“***
 
 
