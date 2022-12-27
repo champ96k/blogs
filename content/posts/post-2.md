@@ -94,8 +94,11 @@ Philosophy without good character is of little or no value. There are three aspe
 Vichaar: The philosophy that we seek answers from.
 Achaar: The act on that philosophy. We must do it.
 Prachaar: The good conduct that is displayed to the world through those actions. We must practice it.
- Social Contribution
-Selfless Service 
+
+
+## Social Contribution
+
+### Selfless Service 
 
 You can be completely selfish, completely selfless, or any of the combinations in between. Life is a journey from being selfish to becoming selfless.
 In order to be happy, we should shift our attitude from being an ice cream to a candle, from being selfish to selfless. This is shown through service.
