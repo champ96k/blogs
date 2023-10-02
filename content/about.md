@@ -3,9 +3,8 @@ title: "About"
 type: "page"
 ---
 
-I'm Tushar Nikam, I hold a **B.Tech** degree in **Computer Science** from **Savitribai Phule Pune University**. I'm a **software developer** and **computer programmer** with an avid interest in **Mobile application development**. As a core programmer, I love taking on challenges and **love** being part of the solution.
+Welcome to my blog! I'm Tushar Nikam, a passionate software engineer with a knack for cutting-edge technology and a flair for mobile application development. Through my journey in the tech world, I've had the privilege of working on some exciting projects and gaining valuable experiences. Let me take you through my professional journey and expertise.
 
-Would be interested in getting exposure to domains providing intellectually challenging work in the field of computers for proving and enriching my knowledge and skills.
 
 <br>
 
