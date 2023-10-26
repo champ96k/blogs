@@ -48,12 +48,7 @@ Thank you, God, for these irreplaceable people in my life. The OG gang, the ones
 
 <br>
 
-
-<p >
-  <img src="https://i.ibb.co/8dQ83wR/2.jpg" width="250" />
-  <img src="https://i.ibb.co/55CgS27/1.jpg" width="250" />
-  <img src="https://i.ibb.co/DgnWTB9/6.jpg" width="250" />
-</p>
+![Image1](https://i.ibb.co/1bTjyN6/collage.jpg) 
 
 <br>
 
