@@ -37,6 +37,8 @@ As the visit drew to a close, it struck me that it's better to meet this friend 
 
 ![Imag1](https://i.ibb.co/jzNTYSm/9.jpg)
 
+Thanks, guys, for everything. You're pure gems, and I'm endlessly grateful for your presence in my life. Your unwavering support, genuine friendship, and the countless memories we've created together mean the world to me. Here's to many more adventures, laughter-filled moments, and shared experiences as we continue this incredible journey called life. 💎
+
 <br>
 
 But wait, there's more! Apart from these reflections, I also had the incredible opportunity to spend 7-8 hours with my OG gang, the real ones, the friends who have stood the test of time. It was beyond refreshing and exhilarating to be in their company. 
