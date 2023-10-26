@@ -49,14 +49,13 @@ Thank you, God, for these irreplaceable people in my life. The OG gang, the ones
 <br>
 
 
-<p float="left">
+<p >
   <img src="https://i.ibb.co/8dQ83wR/2.jpg" width="250" />
-  <img src="https://i.ibb.co/02Lvsxq/3.jpg" width="250" />
+  <img src="https://i.ibb.co/55CgS27/1.jpg" width="250" />
   <img src="https://i.ibb.co/DgnWTB9/6.jpg" width="250" />
 </p>
 
 <br>
-
 
 Life is a journey, and we all change and grow. It's vital that we find people who embrace and celebrate the person we've become, and that we take the chance to meet and understand those we've only known through screens. Thank you, Pune, for this enlightening experience, and here's to a future filled with genuine connections and newfound clarity. 🌱
 
