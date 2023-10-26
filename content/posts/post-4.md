@@ -5,10 +5,16 @@ description: "A Journey to Pune: Reuniting with Old Classmates, Shattering Illus
 tags: [LifeLessons,PuneDiaries]
 ---
 
+Hey there, everyone! I just wrapped up an unforgettable trip to Pune, where I had the chance to reconnect with some of my old classmates and friends from the days of yore. It's been three to four days of catching up, reminiscing, and rediscovering some precious moments from our shared past. But let me tell you, this journey has led me to some profound reflections on how we often judge people based on their history.
+
+<br>
 
 ![Image1](https://i.ibb.co/8r9ytq7/10.jpg)
 
-Hey there, everyone! I just wrapped up an unforgettable trip to Pune, where I had the chance to reconnect with some of my old classmates and friends from the days of yore. It's been three to four days of catching up, reminiscing, and rediscovering some precious moments from our shared past. But let me tell you, this journey has led me to some profound reflections on how we often judge people based on their history.
+<br>
+
+We all have our own stories, and life takes us down different paths. In our school days, it's easy to be labeled as a "dropout" or a "duffer" if you struggle academically or choose a unique path. But what people don't realize is how much we can change and grow over time. Our past doesn't define us, and it certainly doesn't determine our future.
+
 
 
 <br>
@@ -16,9 +22,6 @@ Hey there, everyone! I just wrapped up an unforgettable trip to Pune, where I ha
 ![Image2](https://i.ibb.co/PDKF4Yp/8.jpg)
 
 <br>
-
-We all have our own stories, and life takes us down different paths. In our school days, it's easy to be labeled as a "dropout" or a "duffer" if you struggle academically or choose a unique path. But what people don't realize is how much we can change and grow over time. Our past doesn't define us, and it certainly doesn't determine our future.
-
 
 Over these past few days, as I reconnected with my old friends, I couldn't help but feel like they were still viewing me through the lens of our school days. It's disheartening to think that they might see me as that same person from years ago, when I've evolved, learned, and pursued my passions.
 
