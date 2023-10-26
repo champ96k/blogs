@@ -41,6 +41,11 @@ Thanks, guys, for everything. You're pure gems, and I'm endlessly grateful for y
 
 <br>
 
+
+-------
+
+
+
 But wait, there's more! Apart from these reflections, I also had the incredible opportunity to spend 7-8 hours with my OG gang, the real ones, the friends who have stood the test of time. It was beyond refreshing and exhilarating to be in their company. 
 
 These are the people who you can be your unfiltered, authentic self with. There's no hesitation, no pretense; you can say anything, anywhere, and it's always met with understanding and laughter. These are the real brothers and sisters, the kind of friends who become family.
