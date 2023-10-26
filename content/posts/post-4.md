@@ -3,6 +3,7 @@ title: "A Journey to Pune: Reuniting with Old Classmates, Shattering Illusions, 
 date: 2023-10-26T02:01:58+05:30
 description: "A Journey to Pune: Reuniting with Old Classmates, Shattering Illusions, and Meeting the OG Gang ✈️"
 tags: [LifeLessons,PuneDiaries]
+draft: true
 ---
 
 Hey there, everyone! I just wrapped up an unforgettable trip to Pune, where I had the chance to reconnect with some of my old classmates and friends from the days of yore. It's been three to four days of catching up, reminiscing, and rediscovering some precious moments from our shared past. But let me tell you, this journey has led me to some profound reflections on how we often judge people based on their history.
