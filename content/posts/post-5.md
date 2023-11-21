@@ -1,6 +1,6 @@
 ---
-title: "Primer: When You Have Too Much to Do"
-date: 2018-03-18T02:01:58+05:30
+title: "When You Have Too Much to Do"
+date: 2023-11-16T02:01:58+05:30
 description: "You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more."
 tags: [Primer, todo]
 ---
@@ -58,5 +58,13 @@ Go through the rest of the day with an attitude of “mindful focus.” That mea
 Think of it as a settling of the mind. A new mode of being. A mindfulness practice (which means you won’t be perfect at it).
 
 As you practice mindful focus, you’ll learn to practice doing things with an open heart, with curiosity and gratitude, and even joy. Try these one at a time as you get to do each task on your Short List.
+
+<br>
+<br>
+
+![Image](https://i.ibb.co/1n6Yfm0/IMG-0705.jpg) 
+
+<br>
+<br>
 
 You’ll find that you’re not so overloaded, but that each task is just perfect for that moment. And that’s a completely new relationship with the work that you do, and a new relationship with life.
