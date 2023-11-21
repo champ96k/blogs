@@ -1,7 +1,7 @@
 ---
 title: "Unmasking Code Smells"
-date: 2018-03-18T12:13:32+05:30
-description: " A Developer's Guide to Identifying and Eliminating Design Weaknesses."
+date: 2023-11-21T02:01:58+05:30
+description: "A Developer's Guide to Identifying and Eliminating Design Weaknesses."
 tags: [tech,code]
 ---
 
