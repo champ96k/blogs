@@ -19,9 +19,9 @@ I hadn’t figured out the skill that would save me from the procrastination.
 
 Until I learned about letting go.
 
-Letting go first came to me when I was quitting smoking. I had to let go of the “need” to smoke, the use of my crutch of cigarettes to deal with stress and problems.
+Letting go first came to me during my journey to overcome overthinking. I had to release the grip of the constant need to overanalyze, liberating myself from the mental crutch that overthinking had become in coping with stress and life's challenges.
 
-Then I learned I needed to let go of other false needs that were causing me problems: sugar, junk food, meat, shopping, beer, possessions. I’m not saying I can never do these things again once I let go of these needs, but I let go of the idea that they’re really necessary. I let go of an unhealthy attachment to them.
+Then I learned I needed to let go of other false needs that were causing me problems: sugar, junk food, shopping, beer, possessions. I’m not saying I can never do these things again once I let go of these needs, but I let go of the idea that they’re really necessary. I let go of an unhealthy attachment to them.
 
 Then I learned that distractions and the false need to check my email and news and other things online … were causing me problems. They were causing my procrastination.
 
@@ -33,6 +33,7 @@ I paid attention to the pain they cause me, later, instead of only the temporary
 I thought about the person I want to be, the life I want to live. I set my intentions to do the good work I think I should do.
 I watched my urges to check things, to go to the comfort of distractions. I saw that I wanted to escape discomfort of something hard, and go to the comfort of something familiar and easy.
 I realized I didn’t need that comfort. I could be in discomfort and nothing bad would happen. In fact, the best things happen when I’m in discomfort.
+
 And then I smile, and breathe, and let go.
 
 <br>
