@@ -60,11 +60,36 @@ Thank you, God, for these irreplaceable people in my life. The OG gang, the ones
 
 <br>
 
+In the spirit of self-discovery, I'm reminded of the profound teachings of the Bhagavad Gita. The ancient scripture emphasizes the concept of 'Karma Yoga,' teaching us to focus on our present actions without attachment to the results. In the context of my journey in Pune, it encourages me to let go of preconceived notions and judgments, understanding that people, like me, are on their unique paths of growth.
+
+The Bhagavad Gita also underscores the importance of detaching from the past and future, emphasizing the significance of the present moment. Through this lens, my reflections on past friendships take on a new light – a reminder to appreciate the evolving nature of relationships and cherish the current connections that contribute positively to my life.
+
+In essence, the teachings of the Bhagavad Gita offer valuable insights into navigating the complexities of relationships and finding inner peace amidst life's twists and turns. As I move forward, I carry with me the wisdom of detachment and the understanding that every encounter, whether nostalgic or novel, contributes to the intricate tapestry of my personal journey. 
+
+
+<br>
+
 Life is a journey, and we all change and grow. It's vital that we find people who embrace and celebrate the person we've become, and that we take the chance to meet and understand those we've only known through screens. Thank you, Pune, for this enlightening experience, and here's to a future filled with genuine connections and newfound clarity. 🌱
 
 
 ![image](https://i.ibb.co/6wGCV6w/7.jpg)
 
+<br>
+
+#### The Purpose of Writing This Blog:
+
+Reflecting on my experiences in Pune and the emotional rollercoaster of reconnecting with old friends, I felt compelled to share these thoughts. The purpose is twofold: firstly, to encourage self-reflection among readers about their own relationships and judgments based on the past, and secondly, to emphasize the importance of embracing change and cultivating genuine connections.
+
+
+#### Conclusion:
+
+In conclusion, life is a dynamic journey filled with twists and turns, and our relationships evolve just as we do. The trip to Pune was a poignant reminder that while some connections may fade, new ones can blossom. It's essential to appreciate the genuine connections, like my OG gang, and to approach relationships with an open heart, allowing room for growth and understanding. Here's to the ongoing adventure of life, filled with meaningful connections and the wisdom gained from each experience. 
+
+<br>
+
+![image](https://i.ibb.co/82vcBFH/IMG-4389.jpg)
+
+<br>
 
 Please don't take this post personally. I'm writing this to express my thoughts and emotions, to share the feelings that have been stirred during this trip. It's not directed at any one individual, and there's no finger-pointing involved. It's simply a reflection of my personal journey and experiences.
 
