@@ -3,10 +3,10 @@ title: "A Journey to Pune: Reuniting with Old Classmates, Shattering Illusions, 
 date: 2023-10-26T02:01:58+05:30
 description: "A Journey to Pune: Reuniting with Old Classmates, Shattering Illusions, and Meeting the OG Gang ✈️"
 tags: [LifeLessons,PuneDiaries]
-draft: true
+draft: false
 ---
 
-Hey there, everyone! I just wrapped up an unforgettable trip to Pune, where I had the chance to reconnect with some of my old classmates and friends from the days of yore. It's been three to four days of catching up, reminiscing, and rediscovering some precious moments from our shared past. But let me tell you, this journey has led me to some profound reflections on how we often judge people based on their history.
+Hey there, everyone! I just wrapped up an unforgettable trip to Pune, where I had the chance to reconnect with some of my old classmates and friends from the days of yore (of long ago or former times). It's been three to four days of catching up, reminiscing, and rediscovering some precious moments from our shared past. But let me tell you, this journey has led me to some profound reflections on how we often judge people based on their history.
 
 <br>
 
@@ -24,11 +24,11 @@ We all have our own stories, and life takes us down different paths. In our scho
 
 <br>
 
-Over these past few days, as I reconnected with my old friends, I couldn't help but feel like they were still viewing me through the lens of our school days. It's disheartening to think that they might see me as that same person from years ago, when I've evolved, learned, and pursued my passions.
+Over these past few days, as I reconnected with my old friend, I couldn't help but feel like they were still viewing me through the lens of our school days. It's disheartening to think that they might see me as that same person from years ago, when I've evolved, learned, and pursued my passions.
 
-As we spent four days together, it became increasingly evident that their perspectives remained rooted in the past. They measured me based on who I was back then, rather than the person I've become today. It was a stark reminder that, sometimes, we outgrow certain relationships and friendships, not because we hold any judgment against them, but because they are unwilling to change their perceptions.
+As we spent two days together, it became increasingly evident that their perspectives remained rooted in the past. They measured me based on who I was back then, rather than the person I've become today. It was a stark reminder that, sometimes, we outgrow certain relationships and friendships, not because we hold any judgment against them, but because they are unwilling to change their perceptions.
 
-Saying goodbye to these old friends after this reunion was bittersweet. On one hand, there was an immense feeling of nostalgia and affection for the memories we once created together. On the other, it was a poignant realization that our paths have diverged too far. I've decided not to meet them again, not out of resentment, but because it's important for me to surround myself with individuals who appreciate the person I am today, rather than the one I used to be.
+Saying goodbye to these old friend after this reunion was bittersweet. On one hand, there was an immense feeling of nostalgia and affection for the memories we once created together (Ohh we don't created any memories yet, thank god!). On the other, it was a poignant realization that our paths have diverged too far. I've decided not to meet them again, not out of resentment, but because it's important for me to surround myself with individuals who appreciate the person I am today, rather than the one I used to be.
 
 But there's more to this story. The primary reason for my visit was to meet one friend, someone I had never met in person before. I wanted to understand her, to break down the illusions that had built up around our online interactions. However, as the days passed, I began to realize that the feeling of missing someone you've never met can be quite powerful. It's like longing for a stranger who, in your mind, feels like a dear friend.
 
