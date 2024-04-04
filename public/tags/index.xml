@@ -2,28 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tushars Blogs</title>
-    <link>https://majestic-kheer-b3592c.netlify.app/tags/</link>
+    <link>http://localhost:63448/tags/</link>
     <description>Recent content in Tags on Tushars Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate><atom:link href="https://majestic-kheer-b3592c.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 12:50:36 +0530</lastBuildDate>
+    <atom:link href="http://localhost:63448/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:63448/tags/learning/</link>
+      <pubDate>Sun, 31 Dec 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:63448/tags/research/</link>
+      <pubDate>Sun, 31 Dec 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:63448/tags/tech/</link>
+      <pubDate>Sun, 31 Dec 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>http://localhost:63448/tags/code/</link>
+      <pubDate>Tue, 21 Nov 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Procrastinating</title>
+      <link>http://localhost:63448/tags/procrastinating/</link>
+      <pubDate>Fri, 17 Nov 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/procrastinating/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Primer</title>
-      <link>https://majestic-kheer-b3592c.netlify.app/tags/primer/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>https://majestic-kheer-b3592c.netlify.app/tags/primer/</guid>
+      <link>http://localhost:63448/tags/primer/</link>
+      <pubDate>Thu, 16 Nov 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/primer/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>todo</title>
-      <link>https://majestic-kheer-b3592c.netlify.app/tags/todo/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>https://majestic-kheer-b3592c.netlify.app/tags/todo/</guid>
+      <title>Todo</title>
+      <link>http://localhost:63448/tags/todo/</link>
+      <pubDate>Thu, 16 Nov 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/todo/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>LifeLessons</title>
+      <link>http://localhost:63448/tags/lifelessons/</link>
+      <pubDate>Thu, 26 Oct 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/lifelessons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PuneDiaries</title>
+      <link>http://localhost:63448/tags/punediaries/</link>
+      <pubDate>Thu, 26 Oct 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/punediaries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:63448/tags/experience/</link>
+      <pubDate>Tue, 03 Oct 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/experience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Media</title>
+      <link>http://localhost:63448/tags/social-media/</link>
+      <pubDate>Tue, 03 Oct 2023 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/social-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Book</title>
+      <link>http://localhost:63448/tags/book/</link>
+      <pubDate>Sun, 25 Dec 2022 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>http://localhost:63448/tags/review/</link>
+      <pubDate>Sun, 25 Dec 2022 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Job</title>
+      <link>http://localhost:63448/tags/job/</link>
+      <pubDate>Mon, 31 Oct 2022 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/job/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:63448/tags/tips/</link>
+      <pubDate>Mon, 31 Oct 2022 02:01:58 +0530</pubDate>
+      <guid>http://localhost:63448/tags/tips/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
