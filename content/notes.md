@@ -3,4 +3,5 @@ title: "Notes"
 type: "page"
 ---
 
-This is some static page where you can get all notes.
+- [Data Structures and Algorithms](./time_complexities.md)
+- [Financial Nanagement](./finance.md)
