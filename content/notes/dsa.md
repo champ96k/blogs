@@ -1,17 +1,17 @@
 ---
 title: "DSA"
 type: "page"
+date: 2024-10-12T02:01:58+05:30
+description: "Data Structures and Algorithms"
+tags: [dsa]
 ---
 
-
-## Data Structures and Algorithms (DSA)
-
-## Introduction: Asymptotic Analysis
+### Introduction: Asymptotic Analysis
 
 - [Time Complexities](./time_complexities.md)
 - [Space Complexities](./space_complexities.md)
 
-## Mathematics
+### Mathematics
 
 - [GCD](./gcd.md)
 - [Prime](./prime.md)
@@ -19,31 +19,31 @@ type: "page"
 - [Sieve of Eratosthenes](./sieve.md)
 - [Computing Power](./computing_power.md)
 
-## Arrays
+### Arrays
 
 - [Types](./array_types.md)
 - [Operations on Arrays](./array_operations.md)
 - [Sliding Window Technique](./sliding_window.md)
 - [Prefix Sum](./prefix_sum.md)
 
-## Recursion
+### Recursion
 
 - [Basic Recursion Concepts](./recursion.md)
 
 ---
 
-## Bit Magic
+### Bit Magic
 
 - [Bit Operators](./bit_operators.md)
 - [Bit Manipulation Tricks](./bit_tricks.md)
 
-## Matrix
+### Matrix
 
 - [Matrix Operations](./matrix_operations.md)
 - [Matrix Searching](./matrix_search.md)
 - [Insert, Delete, Rotate, Transpose](./matrix_modify.md)
 
-## Searching
+### Searching
 
 - [Linear Search](./linear_search.md)
 - [Binary Search](./binary_search.md)
@@ -51,7 +51,7 @@ type: "page"
 
 ---
 
-## Sorting
+### Sorting
 
 - [Insertion Sort](./insertion_sort.md)
 - [Merge Sort](./merge_sort.md)
@@ -62,21 +62,21 @@ type: "page"
 - [Bucket Sort](./bucket_sort.md)
 - [Custom Sort using STL](./custom_sort.md)
 
-## Hashing
+### Hashing
 
 - [Hashing Techniques](./hashing_techniques.md)
 - [Collision Resolution](./collision_resolution.md)
 
 ---
 
-## Strings
+### Strings
 
 - [Basic Operations](./string_operations.md)
 - [Naive Pattern Search](./naive_search.md)
 - [KMP Algorithm](./kmp.md)
 - [Rabin-Karp Algorithm](./rabin_karp.md)
 
-## Linked Lists
+### Linked Lists
 
 - [Singly Linked List](./singly_linked_list.md)
 - [Doubly Linked List](./doubly_linked_list.md)
@@ -86,30 +86,30 @@ type: "page"
 
 ---
 
-## Stacks
+### Stacks
 
 - [Stack Operations](./stack_operations.md)
 - [Questions](./stack_questions.md)
 
-## Queues
+### Queues
 
 - [Queue Operations](./queue_operations.md)
 - [Questions](./queue_questions.md)
 
-## Deque
+### Deque
 
 - [Deque Operations](./deque_operations.md)
 - [Questions](./deque_questions.md)
 
 ---
 
-## Tree
+### Tree
 
 - [Binary Tree](./binary_tree.md)
 - [Tree Traversals](./tree_traversals.md)
 - [Questions](./tree_questions.md)
 
-## Binary Search Tree (BST)
+### Binary Search Tree (BST)
 
 - [Search](./bst_search.md)
 - [Insert](./bst_insert.md)
@@ -119,13 +119,13 @@ type: "page"
 
 ---
 
-## Heaps
+### Heaps
 
 - [Binary Heap (Min & Max)](./binary_heap.md)
 - [Priority Queue](./priority_queue.md)
 - [Heap Questions](./heap_questions.md)
 
-## Graphs
+### Graphs
 
 - [Graph Implementation](./graph_implementation.md)
 - [Graph Traversals](./graph_traversals.md)
@@ -136,15 +136,15 @@ type: "page"
 
 ---
 
-## Week 8
+### Week 8
 
-## Greedy Algorithms
+### Greedy Algorithms
 
 - [Fractional Knapsack](./fractional_knapsack.md)
 - [Activity Selection](./activity_selection.md)
 - [Job Sequencing](./job_sequencing.md)
 
-## Dynamic Programming (DP)
+### Dynamic Programming (DP)
 
 - [Top Down & Bottom Up Approaches](./dp_approaches.md)
 - [Optimal Substructures](./optimal_substructures.md)
@@ -153,11 +153,11 @@ type: "page"
 
 ---
 
-## Dynamic Programming Problems
+### Dynamic Programming Problems
 
 - [Variations of Standard Problems](./dp_variations.md)
 
-## Graph Algorithms
+### Graph Algorithms
 
 - [Shortest Path Algorithms](./shortest_path.md)
 - [Connected Components](./connected_components.md)
@@ -165,15 +165,15 @@ type: "page"
 
 ---
 
-## Tries
+### Tries
 
 - [Tries Basics](./tries.md)
 
-### Segment Tree
+#### Segment Tree
 
 - [Segment Tree Operations](./segment_tree.md)
 
-### Disjoint Set Union
+#### Disjoint Set Union
 
 - [Union & Find Operations](./disjoint_set_union.md)
 - [Path Compression](./path_compression.md)
