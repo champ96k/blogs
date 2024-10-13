@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tushars Blogs</title>
-    <link>http://localhost:61110/posts/</link>
+    <link>http://localhost:61435/posts/</link>
     <description>Recent content in Posts on Tushars Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Dec 2023 12:50:36 +0530</lastBuildDate>
-    <atom:link href="http://localhost:61110/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61435/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 Things Software Developers Should Learn about Learning</title>
-      <link>http://localhost:61110/posts/post-8/</link>
+      <link>http://localhost:61435/posts/post-8/</link>
       <pubDate>Sun, 31 Dec 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61110/posts/post-8/</guid>
+      <guid>http://localhost:61435/posts/post-8/</guid>
       <description>New technologies are frequently invented, and old technologies are repeatedly updated. Thus, developers do not learn to program just once—over the course of their careers they will learn many new programming languages and frameworks.&#xA;So recently I started learning regularly (Yeah finally I started) it’s been so long I didn&amp;rsquo;t learn new things (I think more than 6 months, so in that period, I decided to take a little break and explore some places).</description>
     </item>
     <item>
       <title>Unmasking Code Smells</title>
-      <link>http://localhost:61110/posts/post-7/</link>
+      <link>http://localhost:61435/posts/post-7/</link>
       <pubDate>Tue, 21 Nov 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61110/posts/post-7/</guid>
+      <guid>http://localhost:61435/posts/post-7/</guid>
       <description>Introduction: In the realm of computer programming, the term &amp;ldquo;code smell&amp;rdquo; has emerged as a metaphorical fragrance that hints at potential issues within the source code. However, determining what constitutes a code smell is a subjective endeavor, influenced by factors such as programming language, developer expertise, and development methodology. In this blog, we&amp;rsquo;ll delve into the world of code smells, exploring their significance, manifestations at different levels of code, and strategies for mitigation.</description>
     </item>
     <item>
       <title>How I Learned to Stop Procrastinating, &amp; Love Letting Go</title>
-      <link>http://localhost:61110/posts/post-6/</link>
+      <link>http://localhost:61435/posts/post-6/</link>
       <pubDate>Fri, 17 Nov 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61110/posts/post-6/</guid>
+      <guid>http://localhost:61435/posts/post-6/</guid>
       <description>The end of procrastination is the art of letting go. I’ve been a lifelong procrastinator, at least until recent years. I would put things off until deadline, because I knew I could come through. I came through on tests after cramming last minute, I turned articles in at the deadline after waiting until the last hour, I got things done.&#xA;Until I didn’t. It turns out procrastinating caused me to miss deadlines, over and over.</description>
     </item>
     <item>
       <title>When You Have Too Much to Do</title>
-      <link>http://localhost:61110/posts/post-5/</link>
+      <link>http://localhost:61435/posts/post-5/</link>
       <pubDate>Thu, 16 Nov 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61110/posts/post-5/</guid>
+      <guid>http://localhost:61435/posts/post-5/</guid>
       <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.&#xA;It all keeps piling up, and it can feel overwhelming.&#xA;How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description>
     </item>
     <item>
       <title>Disconnecting from the Digital World</title>
-      <link>http://localhost:61110/posts/post-3/</link>
+      <link>http://localhost:61435/posts/post-3/</link>
       <pubDate>Tue, 03 Oct 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61110/posts/post-3/</guid>
+      <guid>http://localhost:61435/posts/post-3/</guid>
       <description>Today marks the beginning of a new chapter in my digital life as I embark on a journey of taking a break from social media. Now, before you assume this is just another attempt at a digital detox to cure an addiction or a desperate plea to reset my dopamine receptors, let me clarify – this break is happening simply because I&amp;rsquo;ve had enough of the chaos and the noise that social media can bring.</description>
     </item>
     <item>
       <title>Life&#39;s Amazing Secrets: How to Find Balance and Purpose in Your Life - Book review</title>
-      <link>http://localhost:61110/posts/post-2/</link>
+      <link>http://localhost:61435/posts/post-2/</link>
       <pubDate>Sun, 25 Dec 2022 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61110/posts/post-2/</guid>
+      <guid>http://localhost:61435/posts/post-2/</guid>
       <description>“The mind is what we use to perceive the world. We don’t see things as they are, we see things as we are.“&#xA;As a society, it’s all too easy to focus on our external achievements and forget to assess whether we are happy with the state of our life.&#xA;We tend to take everyone at face value, equating what they have on the outside to how they feel on the inside.</description>
     </item>
     <item>
       <title>Tips for your first month as a software Engineer</title>
-      <link>http://localhost:61110/posts/post-1/</link>
+      <link>http://localhost:61435/posts/post-1/</link>
       <pubDate>Mon, 31 Oct 2022 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61110/posts/post-1/</guid>
+      <guid>http://localhost:61435/posts/post-1/</guid>
       <description>8 Tips for your first month as a software Engineer&#xA;Always ask the right questions Meet your teammates and ask as many questions as you can. like&#xA;what is the purpose of the product? who are it’s user ? What motivated the company to build this ? where can you find documentation related to this ? Integrate ( DO NOT DISSOLVE YOURSELF) Note down the term programming language, dependency tools, build tools, work hours, test frameworks, deployment manuals, and rituals.</description>
     </item>
   </channel>
