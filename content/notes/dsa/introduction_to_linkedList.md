@@ -1,1 +1,4 @@
-### Introduction to LinkedList
+---
+title: "Introduction to LinkedList"
+type: "page"
+---
