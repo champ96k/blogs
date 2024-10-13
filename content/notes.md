@@ -1,4 +1,7 @@
-# Notes
+---
+title: "Notes"
+type: "page"
+---
 
 - [Data Structures and Algorithms](dsa)
 - [Financial Management](finance)
