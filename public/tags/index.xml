@@ -2,101 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tushars Blogs</title>
-    <link>http://localhost:61435/tags/</link>
+    <link>http://localhost:61858/tags/</link>
     <description>Recent content in Tags on Tushars Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Dec 2023 12:50:36 +0530</lastBuildDate>
-    <atom:link href="http://localhost:61435/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Oct 2024 19:02:51 +0530</lastBuildDate>
+    <atom:link href="http://localhost:61858/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dsa</title>
+      <link>http://localhost:61858/tags/dsa/</link>
+      <pubDate>Sat, 12 Oct 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:61858/tags/dsa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial</title>
+      <link>http://localhost:61858/tags/financial/</link>
+      <pubDate>Sat, 12 Oct 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:61858/tags/financial/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Learning</title>
-      <link>http://localhost:61435/tags/learning/</link>
+      <link>http://localhost:61858/tags/learning/</link>
       <pubDate>Sun, 31 Dec 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61435/tags/learning/</guid>
+      <guid>http://localhost:61858/tags/learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:61435/tags/research/</link>
+      <link>http://localhost:61858/tags/research/</link>
       <pubDate>Sun, 31 Dec 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61435/tags/research/</guid>
+      <guid>http://localhost:61858/tags/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>http://localhost:61435/tags/tech/</link>
+      <link>http://localhost:61858/tags/tech/</link>
       <pubDate>Sun, 31 Dec 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61435/tags/tech/</guid>
+      <guid>http://localhost:61858/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Code</title>
-      <link>http://localhost:61435/tags/code/</link>
+      <link>http://localhost:61858/tags/code/</link>
       <pubDate>Tue, 21 Nov 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61435/tags/code/</guid>
+      <guid>http://localhost:61858/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Procrastinating</title>
-      <link>http://localhost:61435/tags/procrastinating/</link>
+      <link>http://localhost:61858/tags/procrastinating/</link>
       <pubDate>Fri, 17 Nov 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61435/tags/procrastinating/</guid>
+      <guid>http://localhost:61858/tags/procrastinating/</guid>
       <description></description>
     </item>
     <item>
       <title>Primer</title>
-      <link>http://localhost:61435/tags/primer/</link>
+      <link>http://localhost:61858/tags/primer/</link>
       <pubDate>Thu, 16 Nov 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61435/tags/primer/</guid>
+      <guid>http://localhost:61858/tags/primer/</guid>
       <description></description>
     </item>
     <item>
       <title>Todo</title>
-      <link>http://localhost:61435/tags/todo/</link>
+      <link>http://localhost:61858/tags/todo/</link>
       <pubDate>Thu, 16 Nov 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61435/tags/todo/</guid>
+      <guid>http://localhost:61858/tags/todo/</guid>
       <description></description>
     </item>
     <item>
       <title>Experience</title>
-      <link>http://localhost:61435/tags/experience/</link>
+      <link>http://localhost:61858/tags/experience/</link>
       <pubDate>Tue, 03 Oct 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61435/tags/experience/</guid>
+      <guid>http://localhost:61858/tags/experience/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Media</title>
-      <link>http://localhost:61435/tags/social-media/</link>
+      <link>http://localhost:61858/tags/social-media/</link>
       <pubDate>Tue, 03 Oct 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61435/tags/social-media/</guid>
+      <guid>http://localhost:61858/tags/social-media/</guid>
       <description></description>
     </item>
     <item>
       <title>Book</title>
-      <link>http://localhost:61435/tags/book/</link>
+      <link>http://localhost:61858/tags/book/</link>
       <pubDate>Sun, 25 Dec 2022 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61435/tags/book/</guid>
+      <guid>http://localhost:61858/tags/book/</guid>
       <description></description>
     </item>
     <item>
       <title>Review</title>
-      <link>http://localhost:61435/tags/review/</link>
+      <link>http://localhost:61858/tags/review/</link>
       <pubDate>Sun, 25 Dec 2022 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61435/tags/review/</guid>
+      <guid>http://localhost:61858/tags/review/</guid>
       <description></description>
     </item>
     <item>
       <title>Job</title>
-      <link>http://localhost:61435/tags/job/</link>
+      <link>http://localhost:61858/tags/job/</link>
       <pubDate>Mon, 31 Oct 2022 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61435/tags/job/</guid>
+      <guid>http://localhost:61858/tags/job/</guid>
       <description></description>
     </item>
     <item>
       <title>Tips</title>
-      <link>http://localhost:61435/tags/tips/</link>
+      <link>http://localhost:61858/tags/tips/</link>
       <pubDate>Mon, 31 Oct 2022 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61435/tags/tips/</guid>
+      <guid>http://localhost:61858/tags/tips/</guid>
       <description></description>
     </item>
   </channel>
