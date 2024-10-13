@@ -1,9 +1,6 @@
 ---
 title: "Financial Management"
 type: "page"
-date: 2024-10-12T02:01:58+05:30
-description: "Financial Management"
-tags: [financial]
 ---
 
 Below are some financial management tips that can help you become more independent and confident in handling your finances. Start by creating a budget that tracks your income and expenses, ensuring you spend within your means.

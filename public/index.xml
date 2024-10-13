@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tushars Blogs</title>
-    <link>http://localhost:61858/</link>
+    <link>http://localhost:62086/</link>
     <description>Recent content on Tushars Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Oct 2024 19:02:51 +0530</lastBuildDate>
-    <atom:link href="http://localhost:61858/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DSA</title>
-      <link>http://localhost:61858/notes/dsa/</link>
-      <pubDate>Sat, 12 Oct 2024 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61858/notes/dsa/</guid>
-      <description>Introduction: Asymptotic Analysis Time Complexities Space Complexities Mathematics GCD Prime Factorial Sieve of Eratosthenes Computing Power Arrays Types Operations on Arrays Sliding Window Technique Prefix Sum Recursion Basic Recursion Concepts Bit Magic Bit Operators Bit Manipulation Tricks Matrix Matrix Operations Matrix Searching Insert, Delete, Rotate, Transpose Searching Linear Search Binary Search Two Pointer Approach Sorting Insertion Sort Merge Sort Quick Sort Cycle Sort Counting Sort Radix Sort Bucket Sort Custom Sort using STL Hashing Hashing Techniques Collision Resolution Strings Basic Operations Naive Pattern Search KMP Algorithm Rabin-Karp Algorithm Linked Lists Introduction to LinkedList Singly Linked List Doubly Linked List Circular Linked List Skip List Questions Stacks Stack Operations Questions Queues Queue Operations Questions Deque Deque Operations Questions Tree Binary Tree Tree Traversals Questions Binary Search Tree (BST) Search Insert Delete AVL Trees Self-Balancing Trees Heaps Binary Heap (Min &amp;amp; Max) Priority Queue Heap Questions Graphs Graph Implementation Graph Traversals Cycle Detection Bipartite Graph Minimum Spanning Tree Topological Sorting Week 8 Greedy Algorithms Fractional Knapsack Activity Selection Job Sequencing Dynamic Programming (DP) Top Down &amp;amp; Bottom Up Approaches Optimal Substructures Overlapping Subproblems Standard Problems (LIS, LCS, etc.</description>
-    </item>
-    <item>
-      <title>Financial Management</title>
-      <link>http://localhost:61858/notes/finance/</link>
-      <pubDate>Sat, 12 Oct 2024 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61858/notes/finance/</guid>
-      <description>Below are some financial management tips that can help you become more independent and confident in handling your finances. Start by creating a budget that tracks your income and expenses, ensuring you spend within your means.&#xA;Build an emergency fund to cover unexpected costs, and prioritize paying off high-interest debts. Consider investing early to grow your wealth over time, and always diversify your investments to minimize risk.&#xA;Understanding taxes, saving for retirement, and planning for long-term goals are key to securing your financial future.</description>
-    </item>
+    <atom:link href="http://localhost:62086/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 Things Software Developers Should Learn about Learning</title>
-      <link>http://localhost:61858/posts/post-8/</link>
+      <link>http://localhost:62086/posts/post-8/</link>
       <pubDate>Sun, 31 Dec 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61858/posts/post-8/</guid>
+      <guid>http://localhost:62086/posts/post-8/</guid>
       <description>New technologies are frequently invented, and old technologies are repeatedly updated. Thus, developers do not learn to program just once—over the course of their careers they will learn many new programming languages and frameworks.&#xA;So recently I started learning regularly (Yeah finally I started) it’s been so long I didn&amp;rsquo;t learn new things (I think more than 6 months, so in that period, I decided to take a little break and explore some places).</description>
     </item>
     <item>
       <title>Unmasking Code Smells</title>
-      <link>http://localhost:61858/posts/post-7/</link>
+      <link>http://localhost:62086/posts/post-7/</link>
       <pubDate>Tue, 21 Nov 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61858/posts/post-7/</guid>
+      <guid>http://localhost:62086/posts/post-7/</guid>
       <description>Introduction: In the realm of computer programming, the term &amp;ldquo;code smell&amp;rdquo; has emerged as a metaphorical fragrance that hints at potential issues within the source code. However, determining what constitutes a code smell is a subjective endeavor, influenced by factors such as programming language, developer expertise, and development methodology. In this blog, we&amp;rsquo;ll delve into the world of code smells, exploring their significance, manifestations at different levels of code, and strategies for mitigation.</description>
     </item>
     <item>
       <title>How I Learned to Stop Procrastinating, &amp; Love Letting Go</title>
-      <link>http://localhost:61858/posts/post-6/</link>
+      <link>http://localhost:62086/posts/post-6/</link>
       <pubDate>Fri, 17 Nov 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61858/posts/post-6/</guid>
+      <guid>http://localhost:62086/posts/post-6/</guid>
       <description>The end of procrastination is the art of letting go. I’ve been a lifelong procrastinator, at least until recent years. I would put things off until deadline, because I knew I could come through. I came through on tests after cramming last minute, I turned articles in at the deadline after waiting until the last hour, I got things done.&#xA;Until I didn’t. It turns out procrastinating caused me to miss deadlines, over and over.</description>
     </item>
     <item>
       <title>When You Have Too Much to Do</title>
-      <link>http://localhost:61858/posts/post-5/</link>
+      <link>http://localhost:62086/posts/post-5/</link>
       <pubDate>Thu, 16 Nov 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61858/posts/post-5/</guid>
+      <guid>http://localhost:62086/posts/post-5/</guid>
       <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.&#xA;It all keeps piling up, and it can feel overwhelming.&#xA;How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description>
     </item>
     <item>
       <title>Disconnecting from the Digital World</title>
-      <link>http://localhost:61858/posts/post-3/</link>
+      <link>http://localhost:62086/posts/post-3/</link>
       <pubDate>Tue, 03 Oct 2023 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61858/posts/post-3/</guid>
+      <guid>http://localhost:62086/posts/post-3/</guid>
       <description>Today marks the beginning of a new chapter in my digital life as I embark on a journey of taking a break from social media. Now, before you assume this is just another attempt at a digital detox to cure an addiction or a desperate plea to reset my dopamine receptors, let me clarify – this break is happening simply because I&amp;rsquo;ve had enough of the chaos and the noise that social media can bring.</description>
     </item>
     <item>
       <title>Life&#39;s Amazing Secrets: How to Find Balance and Purpose in Your Life - Book review</title>
-      <link>http://localhost:61858/posts/post-2/</link>
+      <link>http://localhost:62086/posts/post-2/</link>
       <pubDate>Sun, 25 Dec 2022 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61858/posts/post-2/</guid>
+      <guid>http://localhost:62086/posts/post-2/</guid>
       <description>“The mind is what we use to perceive the world. We don’t see things as they are, we see things as we are.“&#xA;As a society, it’s all too easy to focus on our external achievements and forget to assess whether we are happy with the state of our life.&#xA;We tend to take everyone at face value, equating what they have on the outside to how they feel on the inside.</description>
     </item>
     <item>
       <title>Tips for your first month as a software Engineer</title>
-      <link>http://localhost:61858/posts/post-1/</link>
+      <link>http://localhost:62086/posts/post-1/</link>
       <pubDate>Mon, 31 Oct 2022 02:01:58 +0530</pubDate>
-      <guid>http://localhost:61858/posts/post-1/</guid>
+      <guid>http://localhost:62086/posts/post-1/</guid>
       <description>8 Tips for your first month as a software Engineer&#xA;Always ask the right questions Meet your teammates and ask as many questions as you can. like&#xA;what is the purpose of the product? who are it’s user ? What motivated the company to build this ? where can you find documentation related to this ? Integrate ( DO NOT DISSOLVE YOURSELF) Note down the term programming language, dependency tools, build tools, work hours, test frameworks, deployment manuals, and rituals.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:61858/aug_2023/</link>
+      <link>http://localhost:62086/aug_2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61858/aug_2023/</guid>
+      <guid>http://localhost:62086/aug_2023/</guid>
       <description>August 2023 Now Currently working as a Software engineer at Adda52, trying to provide a hassle-free multiplatform gaming experience for millions of users.&#xA;Trying to get better at technical writing, and learning stuffs, along with i also documenting my development journey.&#xA;I am currently reading these two books: Atomic habit and Computer Science Distilled: Learn the Art of Solving Computational Problems&#xA;When I’m home, I mostly surf the web a lot and watch movies/series, and a documentary on Netflix, Prime Video, discovery plus, and much more.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:61858/now/</link>
+      <link>http://localhost:62086/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61858/now/</guid>
+      <guid>http://localhost:62086/now/</guid>
       <description>Now Blogs get out of date, social media gets distracting. My /now page sums up what I’m up to right now. Here it is:&#xA;I wanted to take a moment to share some exciting updates from my life. In August 2023, I made a big move from Delhi to Mumbai, and it&amp;rsquo;s been quite an adventure so far.&#xA;I&amp;rsquo;m currently working as an SDE2 (Software Developer Engineer 2) at PepperMoney India.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:61858/oct_22_now/</link>
+      <link>http://localhost:62086/oct_22_now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61858/oct_22_now/</guid>
+      <guid>http://localhost:62086/oct_22_now/</guid>
       <description>October 2022 Now I recently graduated from college in 2021, and this is my first &amp;ldquo;Now&amp;rdquo; page as a college graduate.&#xA;Professional Journey: Freelancer Mobile Application Developer at Freelancer.com&#xA;Feb 2020 - Oct 2020 During my time as a Freelancer Mobile Application Developer, I honed my skills by working on various Android and iOS applications using the Flutter framework. Notable projects include the Inshape app, Cheylesmore Accountant app, and Body Care Home app.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:61858/about/</link>
+      <link>http://localhost:62086/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61858/about/</guid>
+      <guid>http://localhost:62086/about/</guid>
       <description>Welcome to my blog! I&amp;rsquo;m Tushar Nikam, a passionate software engineer with a knack for cutting-edge technology and a flair for mobile application development. Through my journey in the tech world, I&amp;rsquo;ve had the privilege of working on some exciting projects and gaining valuable experiences. Let me take you through my professional journey and expertise.&#xA;If you want to know what I’m up to these days head over here.</description>
     </item>
     <item>
-      <title>Notes</title>
-      <link>http://localhost:61858/notes/</link>
+      <title>DSA</title>
+      <link>http://localhost:62086/notes/dsa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61858/notes/</guid>
+      <guid>http://localhost:62086/notes/dsa/</guid>
+      <description>Introduction: Asymptotic Analysis Time Complexities Space Complexities Mathematics GCD Prime Factorial Sieve of Eratosthenes Computing Power Arrays Types Operations on Arrays Sliding Window Technique Prefix Sum Recursion Basic Recursion Concepts Bit Magic Bit Operators Bit Manipulation Tricks Matrix Matrix Operations Matrix Searching Insert, Delete, Rotate, Transpose Searching Linear Search Binary Search Two Pointer Approach Sorting Insertion Sort Merge Sort Quick Sort Cycle Sort Counting Sort Radix Sort Bucket Sort Custom Sort using STL Hashing Hashing Techniques Collision Resolution Strings Basic Operations Naive Pattern Search KMP Algorithm Rabin-Karp Algorithm Linked Lists Introduction to LinkedList Singly Linked List Doubly Linked List Circular Linked List Skip List Questions Stacks Stack Operations Questions Queues Queue Operations Questions Deque Deque Operations Questions Tree Binary Tree Tree Traversals Questions Binary Search Tree (BST) Search Insert Delete AVL Trees Self-Balancing Trees Heaps Binary Heap (Min &amp;amp; Max) Priority Queue Heap Questions Graphs Graph Implementation Graph Traversals Cycle Detection Bipartite Graph Minimum Spanning Tree Topological Sorting Week 8 Greedy Algorithms Fractional Knapsack Activity Selection Job Sequencing Dynamic Programming (DP) Top Down &amp;amp; Bottom Up Approaches Optimal Substructures Overlapping Subproblems Standard Problems (LIS, LCS, etc.</description>
+    </item>
+    <item>
+      <title>Financial Management</title>
+      <link>http://localhost:62086/notes/finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:62086/notes/finance/</guid>
+      <description>Below are some financial management tips that can help you become more independent and confident in handling your finances. Start by creating a budget that tracks your income and expenses, ensuring you spend within your means.&#xA;Build an emergency fund to cover unexpected costs, and prioritize paying off high-interest debts. Consider investing early to grow your wealth over time, and always diversify your investments to minimize risk.&#xA;Understanding taxes, saving for retirement, and planning for long-term goals are key to securing your financial future.</description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>http://localhost:62086/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:62086/notes/</guid>
       <description> Data Structures and Algorithms Financial Management Ace your Flutter interview Year at a Glance Develop &amp;amp; Launch An App Study Scheduler </description>
     </item>
   </channel>
