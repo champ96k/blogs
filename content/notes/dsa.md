@@ -1,138 +1,136 @@
 ---
 title: "DSA"
 type: "page"
-date: 2024-10-12T02:01:58+05:30
-description: "Data Structures and Algorithms"
-tags: [dsa]
 ---
 
 ### Introduction: Asymptotic Analysis
 
-- [Time Complexities](./time_complexities.md)
-- [Space Complexities](./space_complexities.md)
+- Time Complexities
+- Space Complexities
 
 ### Mathematics
 
-- [GCD](./gcd.md)
-- [Prime](./prime.md)
-- [Factorial](./factorial.md)
-- [Sieve of Eratosthenes](./sieve.md)
-- [Computing Power](./computing_power.md)
+- GCD
+- Prime
+- Factorial
+- Sieve of Eratosthenes
+- Computing Power
 
 ### Arrays
 
-- [Types](./array_types.md)
-- [Operations on Arrays](./array_operations.md)
-- [Sliding Window Technique](./sliding_window.md)
-- [Prefix Sum](./prefix_sum.md)
+- Types
+- Operations on Arrays
+- Sliding Window Technique
+- Prefix Sum
 
 ### Recursion
 
-- [Basic Recursion Concepts](./recursion.md)
+- Basic Recursion Concepts
 
 ---
 
 ### Bit Magic
 
-- [Bit Operators](./bit_operators.md)
-- [Bit Manipulation Tricks](./bit_tricks.md)
+- Bit Operators
+- Bit Manipulation Tricks
 
 ### Matrix
 
-- [Matrix Operations](./matrix_operations.md)
-- [Matrix Searching](./matrix_search.md)
-- [Insert, Delete, Rotate, Transpose](./matrix_modify.md)
+- Matrix Operations
+- Matrix Searching
+- Insert, Delete, Rotate, Transpose
 
 ### Searching
 
-- [Linear Search](./linear_search.md)
-- [Binary Search](./binary_search.md)
-- [Two Pointer Approach](./two_pointer.md)
+- Linear Search
+- Binary Search
+- Two Pointer Approach
 
 ---
 
 ### Sorting
 
-- [Insertion Sort](./insertion_sort.md)
-- [Merge Sort](./merge_sort.md)
-- [Quick Sort](./quick_sort.md)
-- [Cycle Sort](./cycle_sort.md)
-- [Counting Sort](./counting_sort.md)
-- [Radix Sort](./radix_sort.md)
-- [Bucket Sort](./bucket_sort.md)
-- [Custom Sort using STL](./custom_sort.md)
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Cycle Sort
+- Counting Sort
+- Radix Sort
+- Bucket Sort
+- Custom Sort using STL
 
 ### Hashing
 
-- [Hashing Techniques](./hashing_techniques.md)
-- [Collision Resolution](./collision_resolution.md)
+- Hashing Techniques
+- Collision Resolution
 
 ---
 
 ### Strings
 
-- [Basic Operations](./string_operations.md)
-- [Naive Pattern Search](./naive_search.md)
-- [KMP Algorithm](./kmp.md)
-- [Rabin-Karp Algorithm](./rabin_karp.md)
+- Basic Operations
+- Naive Pattern Search
+- KMP Algorithm
+- Rabin-Karp Algorithm
 
 ### Linked Lists
 
-- [Singly Linked List](./singly_linked_list.md)
-- [Doubly Linked List](./doubly_linked_list.md)
-- [Circular Linked List](./circular_linked_list.md)
-- [Skip List](./skip_list.md)
-- [Questions](./linked_list_questions.md)
+- [Introduction to LinkedList](introduction_to_linkedList)
+- [Singly Linked List](singly_linked_list)
+- [Doubly Linked List](doubly_linked_list)
+- [Circular Linked List](circular_linked_list)
+- [Skip List](skip_list)
+- [Questions](linked_list_questions)
 
 ---
 
 ### Stacks
 
-- [Stack Operations](./stack_operations.md)
-- [Questions](./stack_questions.md)
+- [Stack Operations](stack_operations)
+- [Questions](stack_questions)
 
 ### Queues
 
-- [Queue Operations](./queue_operations.md)
-- [Questions](./queue_questions.md)
+- [Queue Operations](queue_operations)
+- [Questions](queue_questions)
 
 ### Deque
 
-- [Deque Operations](./deque_operations.md)
-- [Questions](./deque_questions.md)
+- [Deque Operations](deque_operations)
+- [Questions](deque_questions)
 
 ---
 
 ### Tree
 
-- [Binary Tree](./binary_tree.md)
-- [Tree Traversals](./tree_traversals.md)
-- [Questions](./tree_questions.md)
+- [Binary Tree](binary_tree)
+- [Tree Traversals](tree_traversals)
+- [Questions](tree_questions)
 
 ### Binary Search Tree (BST)
 
-- [Search](./bst_search.md)
-- [Insert](./bst_insert.md)
-- [Delete](./bst_delete.md)
-- [AVL Trees](./avl_trees.md)
-- [Self-Balancing Trees](./self_balancing_trees.md)
+- [Search](bst_search)
+- [Insert](bst_insert)
+- [Delete](bst_delete)
+- [AVL Trees](avl_trees)
+- [Self-Balancing Trees](self_balancing_trees)
 
 ---
 
 ### Heaps
 
-- [Binary Heap (Min & Max)](./binary_heap.md)
-- [Priority Queue](./priority_queue.md)
-- [Heap Questions](./heap_questions.md)
+- [Binary Heap (Min & Max)](binary_heap)
+- [Priority Queue](priority_queue)
+- [Heap Questions](heap_questions)
 
 ### Graphs
 
-- [Graph Implementation](./graph_implementation.md)
-- [Graph Traversals](./graph_traversals.md)
-- [Cycle Detection](./cycle_detection.md)
-- [Bipartite Graph](./bipartite_graph.md)
-- [Minimum Spanning Tree](./mst.md)
-- [Topological Sorting](./topological_sort.md)
+- [Graph Implementation](graph_implementation)
+- [Graph Traversals](graph_traversals)
+- [Cycle Detection](cycle_detection)
+- [Bipartite Graph](bipartite_graph)
+- [Minimum Spanning Tree](mst)
+- [Topological Sorting](topological_sort)
 
 ---
 
@@ -140,42 +138,42 @@ tags: [dsa]
 
 ### Greedy Algorithms
 
-- [Fractional Knapsack](./fractional_knapsack.md)
-- [Activity Selection](./activity_selection.md)
-- [Job Sequencing](./job_sequencing.md)
+- [Fractional Knapsack](fractional_knapsack)
+- [Activity Selection](activity_selection)
+- [Job Sequencing](job_sequencing)
 
 ### Dynamic Programming (DP)
 
-- [Top Down & Bottom Up Approaches](./dp_approaches.md)
-- [Optimal Substructures](./optimal_substructures.md)
-- [Overlapping Subproblems](./overlapping_subproblems.md)
-- [Standard Problems (LIS, LCS, etc.)](./dp_standard_problems.md)
+- [Top Down & Bottom Up Approaches](dp_approaches)
+- [Optimal Substructures](optimal_substructures)
+- [Overlapping Subproblems](overlapping_subproblems)
+- [Standard Problems (LIS, LCS, etc.)](dp_standard_problems)
 
 ---
 
 ### Dynamic Programming Problems
 
-- [Variations of Standard Problems](./dp_variations.md)
+- [Variations of Standard Problems](dp_variations)
 
 ### Graph Algorithms
 
-- [Shortest Path Algorithms](./shortest_path.md)
-- [Connected Components](./connected_components.md)
-- [Bridges](./bridges.md)
+- [Shortest Path Algorithms](shortest_path)
+- [Connected Components](connected_components)
+- [Bridges](bridges)
 
 ---
 
 ### Tries
 
-- [Tries Basics](./tries.md)
+- [Tries Basics](tries)
 
 #### Segment Tree
 
-- [Segment Tree Operations](./segment_tree.md)
+- [Segment Tree Operations](segment_tree)
 
 #### Disjoint Set Union
 
-- [Union & Find Operations](./disjoint_set_union.md)
-- [Path Compression](./path_compression.md)
+- [Union & Find Operations](disjoint_set_union)
+- [Path Compression](path_compression)
 
 ---

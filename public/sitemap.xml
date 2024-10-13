@@ -2,97 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:63448/posts/post-8/</loc>
+    <loc>http://localhost:61110/posts/post-8/</loc>
     <lastmod>2023-12-31T12:50:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/tags/learning/</loc>
+    <loc>http://localhost:61110/tags/learning/</loc>
     <lastmod>2023-12-31T12:50:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/posts/</loc>
+    <loc>http://localhost:61110/posts/</loc>
+    <lastmod>2024-08-04T16:58:28+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:61110/tags/research/</loc>
     <lastmod>2023-12-31T12:50:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/tags/research/</loc>
+    <loc>http://localhost:61110/tags/</loc>
     <lastmod>2023-12-31T12:50:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/tags/</loc>
+    <loc>http://localhost:61110/tags/tech/</loc>
     <lastmod>2023-12-31T12:50:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/tags/tech/</loc>
-    <lastmod>2023-12-31T12:50:36+05:30</lastmod>
+    <loc>http://localhost:61110/</loc>
+    <lastmod>2024-10-12T17:48:39+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/</loc>
-    <lastmod>2023-12-31T12:50:36+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:63448/tags/code/</loc>
+    <loc>http://localhost:61110/tags/code/</loc>
     <lastmod>2023-11-21T15:04:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/posts/post-7/</loc>
+    <loc>http://localhost:61110/posts/post-7/</loc>
     <lastmod>2023-11-21T15:04:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/posts/post-6/</loc>
+    <loc>http://localhost:61110/posts/post-6/</loc>
     <lastmod>2023-11-21T15:34:16+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/tags/procrastinating/</loc>
+    <loc>http://localhost:61110/tags/procrastinating/</loc>
     <lastmod>2023-11-21T15:34:16+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/tags/primer/</loc>
+    <loc>http://localhost:61110/tags/primer/</loc>
     <lastmod>2023-11-21T15:01:53+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/tags/todo/</loc>
+    <loc>http://localhost:61110/tags/todo/</loc>
     <lastmod>2023-11-21T15:01:53+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/posts/post-5/</loc>
+    <loc>http://localhost:61110/posts/post-5/</loc>
     <lastmod>2023-11-21T15:01:53+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/posts/post-4/</loc>
-    <lastmod>2023-12-13T10:35:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:63448/tags/lifelessons/</loc>
-    <lastmod>2023-12-13T10:35:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:63448/tags/punediaries/</loc>
-    <lastmod>2023-12-13T10:35:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:63448/posts/post-3/</loc>
+    <loc>http://localhost:61110/posts/post-3/</loc>
     <lastmod>2023-10-03T02:38:28+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/tags/experience/</loc>
+    <loc>http://localhost:61110/tags/experience/</loc>
     <lastmod>2023-10-03T02:38:28+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/tags/social-media/</loc>
+    <loc>http://localhost:61110/tags/social-media/</loc>
     <lastmod>2023-10-03T02:38:28+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/tags/book/</loc>
+    <loc>http://localhost:61110/tags/book/</loc>
     <lastmod>2022-12-27T09:26:14+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/posts/post-2/</loc>
+    <loc>http://localhost:61110/posts/post-2/</loc>
     <lastmod>2022-12-27T09:26:14+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/tags/review/</loc>
+    <loc>http://localhost:61110/tags/review/</loc>
     <lastmod>2022-12-27T09:26:14+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/tags/job/</loc>
+    <loc>http://localhost:61110/tags/job/</loc>
     <lastmod>2022-12-25T15:15:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/tags/tips/</loc>
+    <loc>http://localhost:61110/tags/tips/</loc>
     <lastmod>2022-12-25T15:15:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/posts/post-1/</loc>
+    <loc>http://localhost:61110/posts/post-1/</loc>
     <lastmod>2022-12-25T15:15:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/aug_2023/</loc>
+    <loc>http://localhost:61110/aug_2023/</loc>
     <lastmod>2023-10-03T02:38:28+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/now/</loc>
+    <loc>http://localhost:61110/notes/dsa/dsa_introduction/</loc>
+  </url><url>
+    <loc>http://localhost:61110/notes/dsa/introduction_to_linkedlist/</loc>
+  </url><url>
+    <loc>http://localhost:61110/now/</loc>
     <lastmod>2023-10-03T02:38:28+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/oct_22_now/</loc>
+    <loc>http://localhost:61110/oct_22_now/</loc>
     <lastmod>2023-10-03T02:38:28+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/about/</loc>
+    <loc>http://localhost:61110/about/</loc>
     <lastmod>2023-10-03T02:38:28+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:63448/notes/</loc>
-    <lastmod>2022-10-13T13:13:05+05:30</lastmod>
+    <loc>http://localhost:61110/notes/dsa/</loc>
+    <lastmod>2024-10-12T17:43:36+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:61110/notes/finance/</loc>
+    <lastmod>2024-10-12T17:48:39+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:61110/notes/</loc>
+    <lastmod>2024-10-12T17:43:36+05:30</lastmod>
   </url>
 </urlset>
